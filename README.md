@@ -1,1 +1,1 @@
-# apChat
+# simple gemini ai prompt request
